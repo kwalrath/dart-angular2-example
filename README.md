@@ -7,3 +7,10 @@ The master will be updated often to match the latest from the [angular2 repo](ht
 Use this if you want to skip JS/Gulp build steps to get up and running quickly.
 
 Angular2 is in alpha and is GUARANTEED to go through substantial changes as it stabilizes. Please expect this.
+
+## Get Started
+
+1. `pub get`
+2. `pub serve`
+
+Navigate to localhost:8080 in Dartium (for DartVM) or other browser (for Dart2JS).
