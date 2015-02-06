@@ -13,4 +13,4 @@ Angular2 is in alpha and is GUARANTEED to go through substantial changes as it s
 1. `pub get`
 2. `pub serve`
 
-Navigate to localhost:8080 in Dartium (for DartVM) or other browser (for Dart2JS).
+Navigate to localhost:8080 in Dartium (for DartVM) or other browser (for dart2js).
